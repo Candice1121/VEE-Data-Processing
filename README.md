@@ -5,4 +5,7 @@ process MDF file to dataframe
 
 separate driving history into cycles and use unsupervised clustering for idetifying the most similar driving cycle compared to CLTC standard.
 
-![cycle](imgs/cycle)
+![cycle](imgs/cycle.png)
+
+
+![cycle_compare](imgs/cycle_comparison.png)
